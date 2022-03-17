@@ -1,6 +1,6 @@
 # Basic-Image-Processing
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OtNBBZOr8AjjAnrymLRpek6zFATOwDMo?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iDU5688KCvXR_CHcpyZzpSMHO879l7ii?usp=sharing)
 
 > **How to submit the assignment.**
 > 
