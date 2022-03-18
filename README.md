@@ -8,7 +8,7 @@
 > 
 > File Type: 1 PDF file.
 > 
-> To Email: aimlab.assignment.submission@gmail.com
+> To Email: aimlab.assignments@gmail.com
 > 
 > Topic Name: student id + underscore + name (ex. 6313499_JOHNY)
 > 
