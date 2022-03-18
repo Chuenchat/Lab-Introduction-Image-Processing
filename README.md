@@ -6,10 +6,10 @@
 > 
 > Due Date: March 31, 2022
 > 
-> File Type: 1 PDF file.
-> 
 > To Email: aimlab.assignments@gmail.com
 > 
 > Topic Name: student id + underscore + name (ex. 6313499_JOHNY)
 > 
 > File Name: student id + underscore + name (ex. 6313499_JOHNY.pdf)
+> 
+> File Type: 1 PDF file.
